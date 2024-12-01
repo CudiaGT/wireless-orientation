@@ -1,0 +1,141 @@
+{
+    "count": 15,
+    "results": [
+        {
+            "name": "Explore Gasson Hall",
+            "id": 1,
+            "addr": "Gasson Hall",
+            "inst": "Scan the BC plaque located at the center of the first floor of Gasson Hall.",
+            "desc": "Visit one of BC's most iconic buildings and take in its Gothic architecture.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Attend a Football Game",
+            "id": 2,
+            "addr": "Alumni Stadium",
+            "inst": "Scan the BC plaque located at the entraces of the Alumni Stadium.",
+            "desc": "Attend a BC Eagles football game and soak in the school spirit.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Dine at Newton Campus Stuart Cafeteria",
+            "id": 3,
+            "addr": "Stuart Cafeteria (Newton Campus)",
+            "inst": "Scan the BC plaque next to the cashier at the Stuart Cafeteria.",
+            "desc": "Try the best steak at BC and enjoy a relaxed meal with friends.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Relax at the Stokes Quad",
+            "id": 4,
+            "addr": "Stokes Hall Lawn",
+            "inst": "Scan the BC plaque located at one of the benches in front of Stokes Hall.",
+            "desc": "A great spot to study or hang out on sunny days.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Visit the McMullen Museum of Art",
+            "id": 5,
+            "addr": "McMullen Museum of Art (Brighton Campus)",
+            "inst": "Scan the BC plaque located at the entrance of McMullen Museum of Art",
+            "desc": "Enjoy the fascinating exhibits located on Brighton Campus.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Walk the BC Reservoir",
+            "id": 6,
+            "addr": "BC Reservoir",
+            "inst": "Scan the BC plaque located at the water facility building along the Reservoir trails.",
+            "desc": "A scenic trail for running, walking, or just enjoying the view.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Attend a Student Club Fair",
+            "id": 7,
+            "addr": "Stokes Lawn",
+            "inst": "Attend the student club fair and scan the BC plaque at the Office of Student Services table.",
+            "desc": "Discover new interests and meet like-minded peers.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Study at the Bapst Library",
+            "id": 8,
+            "addr": "Bapst Library",
+            "inst": "Visit the Bapst Library and scan the BC plaque next to the librarian's desk.",
+            "desc": "Find one of the hidden libraries and make the most out of the quiet atmosphere.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Work out at the Margot Connell Recreational Center",
+            "id": 9,
+            "addr": "Margot Connell Recreational Center",
+            "inst": "Scan the BC plaque next to the entrance turnstile.",
+            "desc": "Exercise at one of the newest facilities at Boston College.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Visit the Academic Advising Center",
+            "id": 10,
+            "addr": "Stokes Hall South",
+            "inst": "Scan the BC plaque located by the main desk in the Academic Advising Center.",
+            "desc": "It's never too early to start planning out your four years.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Buy or Pick-up Event Tickets at Robsham Theatre",
+            "id": 11,
+            "addr": "Robsham Theatre",
+            "inst": "Ask for a scan when buying or picking-up a ticket at the Robsham Theatre.",
+            "desc": "Attend the events that are exclusively for Boston College students.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Visit the Richdale Food Shops",
+            "id": 12,
+            "addr": "2199 Commonwealth Ave, Boston, MA 02135",
+            "inst": "Scan the BC plaque located by the entrance.",
+            "desc": "Visit the closest store to the campus, you will need the Subway.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Get an ice cream cake at the White Mountain Creamery",
+            "id": 13,
+            "addr": "19 Commonwealth Ave, Chestnut Hill, MA 02467",
+            "inst": "Scan the BC plaque located by the entrance.",
+            "desc": "Celebrate your friends/roommates birthday with a customized ice cream cake.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Grab a coffee at the Chocolate Bar",
+            "id": 14,
+            "addr": "Stokes Hall South",
+            "inst": "Scan the BC plaque located by the cashier.",
+            "desc": "Visit the Chocolate Bar, one of the most popular cafes on campus.",
+            "value": 100,
+            "complete": 0
+        },
+        {
+            "name": "Buy a BC apparel at the BC Bookstore",
+            "id": 15,
+            "addr": "McElroy Commons",
+            "inst": "Ask for a scan when buying a BC apparel at the BC Bookstore",
+            "desc": "Embody the BC spirit by purchasing a BC apparel.",
+            "value": 100,
+            "complete": 0
+        }
+    ]
+}
+
